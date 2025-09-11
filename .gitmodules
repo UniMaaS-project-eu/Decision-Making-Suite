@@ -1,0 +1,3 @@
+[submodule "Digital-Twins"]
+	path = Digital-Twins
+	url = https://github.com/UniMaaS-project-eu/Digital-Twins.git
